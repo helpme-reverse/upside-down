@@ -1,0 +1,10 @@
+ Lab03: upside-down
+===================
+
+   You can implement 'stack' in various other ways. In this weird new world,
+   stack grows upwards (towards higher memory addresses), rather than growing
+   from higher to lower addresses like a 'normal' stack.
+   
+   Who knows? The world we are living in might be the weird world but we
+   somehow got used to it.
+
